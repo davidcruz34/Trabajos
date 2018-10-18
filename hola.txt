@@ -1,1 +1,15 @@
-holaa como estan:?
+1.-carpeta proyecto 
+1.- git config --list
+2.- git config --global username
+3.-pwd
+4.- cd desktop
+5.- ls 
+6.-cd proyecto 
+7.- git init
+hola.txt
+progremacion.docx
+adios.cpp
+
+git add hola.txt
+git status
+git comimint -m "mi primera actualizacion"
